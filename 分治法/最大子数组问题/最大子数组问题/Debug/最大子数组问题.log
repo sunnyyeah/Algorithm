@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\0_study\algorithm\分治法\最大子数组问题\最大子数组问题\main.cpp(45): error C2664: “int max_subarray(std::vector<int,std::allocator<_Ty>> &,int &,int &)”: 无法将参数 2 从“int”转换为“int &”
+          with
+          [
+              _Ty=int
+          ]
+e:\0_study\algorithm\分治法\最大子数组问题\最大子数组问题\main.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+e:\0_study\algorithm\分治法\最大子数组问题\最大子数组问题\main.cpp(73): error C2664: “int max_subarray(std::vector<int,std::allocator<_Ty>> &,int &,int &)”: 无法将参数 2 从“int”转换为“int &”
+          with
+          [
+              _Ty=int
+          ]
